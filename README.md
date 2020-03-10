@@ -27,11 +27,14 @@ http://localhost:8888/
 
 
 ## System Dashboard
-![system](./images/jetson-desktops2.PNG)
+![system](./images/jetson-desktop.png)
+
+![system](./images/tick-dashboards.png)
+
 
 ## ESP-32 Dashboard
 
-![esp32](./images/esp32.png)
+![esp32](./images/ESP32-page-1.png)
 
 
 
